@@ -1,0 +1,8 @@
+c:\projects\MongoDbExtensionsSolution\MongoDbExtensions\obj\Debug\ResolveAssemblyReference.cache
+c:\projects\MongoDbExtensionsSolution\MongoDbExtensions\bin\Debug\MongoDbExtensions.dll
+c:\projects\MongoDbExtensionsSolution\MongoDbExtensions\bin\Debug\MongoDbExtensions.pdb
+c:\projects\MongoDbExtensionsSolution\MongoDbExtensions\bin\Debug\MongoDB.Driver.dll
+c:\projects\MongoDbExtensionsSolution\MongoDbExtensions\bin\Debug\MongoDB.GridFS.dll
+c:\projects\MongoDbExtensionsSolution\MongoDbExtensions\bin\Debug\MongoDB.Linq.dll
+c:\projects\MongoDbExtensionsSolution\MongoDbExtensions\obj\Debug\MongoDbExtensions.dll
+c:\projects\MongoDbExtensionsSolution\MongoDbExtensions\obj\Debug\MongoDbExtensions.pdb

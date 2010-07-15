@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbExtensions", "MongoDbExtensions\MongoDbExtensions.csproj", "{2E90476E-4654-48F0-957C-FBB255AE048F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDriver", "ConsoleDriver\ConsoleDriver.csproj", "{F5EA9958-C11C-42B3-9C36-B222A6816E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E90476E-4654-48F0-957C-FBB255AE048F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E90476E-4654-48F0-957C-FBB255AE048F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E90476E-4654-48F0-957C-FBB255AE048F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2E90476E-4654-48F0-957C-FBB255AE048F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2E90476E-4654-48F0-957C-FBB255AE048F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2E90476E-4654-48F0-957C-FBB255AE048F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E90476E-4654-48F0-957C-FBB255AE048F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E90476E-4654-48F0-957C-FBB255AE048F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2E90476E-4654-48F0-957C-FBB255AE048F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2E90476E-4654-48F0-957C-FBB255AE048F}.Release|x86.ActiveCfg = Release|Any CPU
+		{F5EA9958-C11C-42B3-9C36-B222A6816E5C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F5EA9958-C11C-42B3-9C36-B222A6816E5C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{F5EA9958-C11C-42B3-9C36-B222A6816E5C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{F5EA9958-C11C-42B3-9C36-B222A6816E5C}.Debug|x86.ActiveCfg = Debug|x86
+		{F5EA9958-C11C-42B3-9C36-B222A6816E5C}.Debug|x86.Build.0 = Debug|x86
+		{F5EA9958-C11C-42B3-9C36-B222A6816E5C}.Release|Any CPU.ActiveCfg = Release|x86
+		{F5EA9958-C11C-42B3-9C36-B222A6816E5C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{F5EA9958-C11C-42B3-9C36-B222A6816E5C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{F5EA9958-C11C-42B3-9C36-B222A6816E5C}.Release|x86.ActiveCfg = Release|x86
+		{F5EA9958-C11C-42B3-9C36-B222A6816E5C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

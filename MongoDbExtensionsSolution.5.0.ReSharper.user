@@ -1,0 +1,51 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="d:Miscellaneous Files/f:ExtensionMethods.cs/l:C!?Projects?EStudyMongoDb?EStudyMongoDbSolution?EStudyMongoDb.Business?Helpers?ExtensionMethods.cs" caret="2887" fromTop="22" />
+      <File id="2E90476E-4654-48F0-957C-FBB255AE048F/f:MongoExtensions.cs" caret="882" fromTop="21" />
+      <File id="F5EA9958-C11C-42B3-9C36-B222A6816E5C/f:Program.cs" caret="236" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2E90476E-4654-48F0-957C-FBB255AE048F/f:MongoExtensions.cs" caret="2902" fromTop="59" />
+      <File id="2E90476E-4654-48F0-957C-FBB255AE048F/f:MongoExtensions.cs" caret="288" fromTop="13" />
+      <File id="2E90476E-4654-48F0-957C-FBB255AE048F/f:MongoExtensions.cs" caret="650" fromTop="14" />
+      <File id="2E90476E-4654-48F0-957C-FBB255AE048F/f:MongoExtensions.cs" caret="206" fromTop="6" />
+      <File id="2E90476E-4654-48F0-957C-FBB255AE048F/f:MongoExtensions.cs" caret="985" fromTop="26" />
+      <File id="2E90476E-4654-48F0-957C-FBB255AE048F/f:MongoExtensions.cs" caret="2129" fromTop="13" />
+      <File id="F5EA9958-C11C-42B3-9C36-B222A6816E5C/f:Program.cs" caret="259" fromTop="11" />
+      <File id="F5EA9958-C11C-42B3-9C36-B222A6816E5C/f:Program.cs" caret="90" fromTop="3" />
+      <File id="F5EA9958-C11C-42B3-9C36-B222A6816E5C/f:Program.cs" caret="236" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.2\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="2" />
+      <Item value="new" priority="3" />
+      <Item value="mongo" priority="6" />
+      <Item value="Mongo`0" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="sb" priority="0" />
+      <Item value="MongoDbExtensions" priority="1" />
+      <Item value="using" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

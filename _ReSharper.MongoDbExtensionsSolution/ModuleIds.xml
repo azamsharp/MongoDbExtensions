@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="2E90476E-4654-48F0-957C-FBB255AE048F" ModuleId="MongoDbExtensions" />
+  <Module PersistentId="F5EA9958-C11C-42B3-9C36-B222A6816E5C" ModuleId="ConsoleDriver" />
+</Modules>
