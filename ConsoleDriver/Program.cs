@@ -11,8 +11,8 @@ namespace ConsoleDriver
     {
         static void Main(string[] args)
         {
-            var mongo = new Mongo();
-            mongo.Connect(); 
+           
+           
 
 
             

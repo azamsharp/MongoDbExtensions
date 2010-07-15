@@ -3,3 +3,6 @@ c:\projects\MongoDbExtensionsSolution\ConsoleDriver\bin\Debug\ConsoleDriver.pdb
 c:\projects\MongoDbExtensionsSolution\ConsoleDriver\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\projects\MongoDbExtensionsSolution\ConsoleDriver\obj\x86\Debug\ConsoleDriver.exe
 c:\projects\MongoDbExtensionsSolution\ConsoleDriver\obj\x86\Debug\ConsoleDriver.pdb
+c:\Projects\MongoDbExtensionsSolution\ConsoleDriver\bin\Debug\MongoDB.Driver.dll
+c:\Projects\MongoDbExtensionsSolution\ConsoleDriver\bin\Debug\MongoDB.GridFS.dll
+c:\Projects\MongoDbExtensionsSolution\ConsoleDriver\bin\Debug\MongoDB.Linq.dll
